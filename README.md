@@ -1,11 +1,23 @@
-# Hey there, I'm Pedro!
+# Hey there! I'm Pedro!
 
-## Welcome to my GitHub page
+## About me:
+- Software Engineering student at Università di Roma Sapienza.
+- I'll be using GitHub mostly for personal projects. 
+- I have experience working as a DevOps analyst.
+- I'm want to work as a software developer.
 
-### I'm a Software Engineering student at Università di Roma Sapienza and I'll be using GitHub mostly for personal projects. I have some experience working as a DevOps analyst, but I decided to focus on my software skills!
+## What you can look for:
+Currently I'm working on:
+- My college degree.
+- Learning the basics for App development with Android Studio.
+- Small projects on the Godot Engine.
 
-### Skills:
+In the future I plan to:
+- Port my personal YOPPA project to Android.
+- Tackle bigger game dev projects.
+- Learn ML.
 
+## Skills:
 <div align="center" style="display:inline-block; border:6px solid">
   <img style="margin:200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin:200px" height="60">
