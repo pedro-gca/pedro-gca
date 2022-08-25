@@ -1,5 +1,5 @@
 # Hey there! I'm Pedro!
-
+![Header](./[Your header image])
 ## About me:
 - Software Engineering student at Università di Roma Sapienza.
 - I'll be using GitHub mostly for personal projects. 
