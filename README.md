@@ -1,4 +1,4 @@
-<img src="github-header-image (6).png" alt="drawing"/>
+<img src="1.png" alt="drawing"/>
 
 ## About me:
 - Software Engineering student at Università di Roma Sapienza.
