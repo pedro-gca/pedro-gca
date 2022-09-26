@@ -11,11 +11,11 @@ Currently I'm working on:
 - My college degree.
 - Learning the basics for App development with Android Studio.
 - Small projects on the Godot Engine.
+- My personal website
 
 In the future I plan to:
-- Port my personal YOPPA project to Android.
-- Tackle bigger game dev projects.
-- Learn ML.
+- Port my personal project YOPPA to Android.
+- Work with AI.
 
 ## Skills:
 <div align="center" style="display:inline-block; border:6px solid">
